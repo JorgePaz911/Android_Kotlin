@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAppKotlin</string>
+    <string name="name_txt">Name</string>
+    <string name="default_txt">Default</string>
+    <string name="submit_txt">Submit</string>
+    <string name="button1_txt">Button 1</string>
+    <string name="button2_txt">Button 2</string>
+    <string name="button3_txt">Button 3</string>
+</resources>
